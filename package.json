@@ -1,0 +1,29 @@
+{
+  "name": "Parcel_react_app",
+  "version": "1",
+  "author": "Rakesh Dhariwal",
+  "license": "MIT",
+  "private": false,
+  "source": "./public/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.5.0",
+    "@types/react": "^18.2.20",
+    "@types/react-dom": "^18.2.7",
+    "framer-motion": "^10.16.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
